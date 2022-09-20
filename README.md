@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🔭 I’m currently working on ...
-* ![windows](https://img.shields.io/badge/windows-000000?style=plastic&logo=windows), ![c](https://img.shields.io/badge/clang-000000?style=plastic&logo=c)
+* ![linux](https://img.shields.io/badge/linux-000000?style=plastic&logo=linux), ![c](https://img.shields.io/badge/clang-000000?style=plastic&logo=c)
 
 ### 🌱 I’m currently learning ...
 * ![Swift](https://img.shields.io/badge/Swift-000000?style=plastic&logo=swift) with iOS, ![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust), ![React](https://img.shields.io/badge/React-000000?style=plastic&logo=react)
