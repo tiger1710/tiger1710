@@ -2,10 +2,11 @@
 
 ### 🔭 I’m currently working on ...
 * ![linux](https://img.shields.io/badge/linux-000000?style=plastic&logo=linux), ![c](https://img.shields.io/badge/clang-000000?style=plastic&logo=c)
+* ![Swift](https://img.shields.io/badge/Swift-000000?style=plastic&logo=swift) with iOS
 
 ### 🌱 I’m currently learning ...
-* ![Swift](https://img.shields.io/badge/Swift-000000?style=plastic&logo=swift) with iOS, ![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust), ![React](https://img.shields.io/badge/React-000000?style=plastic&logo=react)
-* Problem Solving with ![C++](https://img.shields.io/badge/C++-000000?style=plastic&logo=cplusplus)
+* ![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust), ![React](https://img.shields.io/badge/React-000000?style=plastic&logo=react)
+* Problem Solving with ![C++](https://img.shields.io/badge/C++-000000?style=plastic&logo=cplusplus), ![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tiger1710)](https://solved.ac/tiger1710)
 
