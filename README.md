@@ -8,9 +8,13 @@
 * ![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust), ![React](https://img.shields.io/badge/React-000000?style=plastic&logo=react)
 * Problem Solving with ![C++](https://img.shields.io/badge/C++-000000?style=plastic&logo=cplusplus), ![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tiger1710)](https://solved.ac/tiger1710)
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tiger1710)](https://solved.ac/tiger1710)
 
 ![tiger1710's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiger1710&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiger1710&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+[![tiger1710's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tiger1710)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ### 📫 How to reach me: ...
 * [![Gmail Badge](https://img.shields.io/badge/Gmail-ffffff?style=plastic&logo=gmail&link=mailto:tiger1710p@gmail.com)](mailto:tiger1710p@gmail.com)
