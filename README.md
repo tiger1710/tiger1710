@@ -10,7 +10,7 @@
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tiger1710)](https://solved.ac/tiger1710)
 
-![tiger1710's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiger1710&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiger1710&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![tiger1710's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiger1710&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiger1710&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![tiger1710's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tiger1710)](https://github.com/anuraghazra/github-readme-stats)
